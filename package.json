@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node main",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.6",
+    "supertest": "^6.1.6"
+  }
+}
